@@ -114,14 +114,14 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:005320_0000_1016FDBBD3950408"/>
-            <pb facs="tcp:005320_0001_1016FDC146602FD8"/>
+            <pb facs="unknown:005320_0000_1016FDBBD3950408"/>
+            <pb facs="unknown:005320_0001_1016FDC146602FD8"/>
             <p>A Catalogue OF THE LIBRARY OF Yale-College IN NEW-HAVEN.</p>
             <p>
                <hi>N LONDON,</hi> Printed by <hi>L. Green,</hi> 1743.</p>
          </div>
          <div type="oreface">
-            <pb facs="tcp:005320_0002_1016FDC2CB61C9B0"/>
+            <pb facs="unknown:005320_0002_1016FDC2CB61C9B0"/>
             <head>ADVERTISEMENT.</head>
             <opener>
                <salute>To the Students of Yale-College.</salute>
@@ -131,7 +131,7 @@
             <p>
                <hi>The</hi> Firſt Number <hi>ſignifies the</hi> Teer, <hi>the</hi> Second <hi>the</hi> Box; <hi>and the</hi> Third <hi>the</hi> Number <hi>of the</hi> Book: <hi>Where there is a</hi> Fourth, <hi>it ſignifies ſeveral</hi> Volumes <hi>or</hi> Duplicates. <hi>And where there are Two or more</hi> Setts <hi>of</hi> Numbers <hi>they ſignify the ſame Sort of Books in</hi> divers places.</p>
             <p>
-               <pb facs="tcp:005320_0003_1016FDC59E7057D8"/>
+               <pb facs="unknown:005320_0003_1016FDC59E7057D8"/>
                <hi>The</hi> Introduction to Philoſophy <hi>will give you a</hi> General Idea <hi>or</hi> Scheme <hi>of all the Arts and Sciences and the ſeveral things which are to be known and learnt: and this</hi> Catalogue <hi>will direct you to many of the beſt Books to be read in order to obtain the Knowlege of them. And I would adviſe you, my Pupils, to purſue a</hi> Regular Courſe of Academical Studies <hi>in ſome Meaſure according to the</hi> Order <hi>of this</hi> Catalogue. <hi>And in the</hi> Firſt Year <hi>to Study principally the</hi> Tongues, Arithme<g ref="char:EOLhyphen"/>tic <hi>and</hi> Algebra; <hi>the</hi> Second, Logic, Rhetoric <hi>and</hi> Geometry; <hi>the</hi> Third, Mathematics <hi>and</hi> Natural Philoſophy; <hi>and the</hi> Fourth, Ethics <hi>and</hi> Divinity. <hi>Other leſs principal Studies may be occaſionally intermix't with theſe. Above all have an Eye to the great End of all your Studies, which is to obtain the</hi> Cleareſt Concep<g ref="char:EOLhyphen"/>tions of Divine Things <hi>and to lead you to a Saving Knowlege of</hi> GOD <hi>in his Son</hi> JESUS CHRIST.</p>
             <closer>
                <signed>T. CLAP.</signed>
@@ -140,7 +140,7 @@
       </front>
       <body>
          <div type="library_catalogue">
-            <pb n="1" facs="tcp:005320_0004_1016FDC87271F890"/>
+            <pb n="1" facs="unknown:005320_0004_1016FDC87271F890"/>
             <head>A Catalogue Of the moſt Valuable Books in the Library of Yale-College, Diſpos'd under proper Heads.</head>
             <div n="languages" type="subject">
                <head>LANGUAGES</head>
@@ -180,7 +180,7 @@
                            <cell>6</cell>
                            <cell>15</cell>
                         </row>
-                        <pb n="2" facs="tcp:005320_0005_1016FDCB9026A4C0"/>
+                        <pb n="2" facs="unknown:005320_0005_1016FDCB9026A4C0"/>
                         <row>
                            <cell>Veſtibulum Technicum.</cell>
                            <cell>19</cell>
@@ -371,7 +371,7 @@
                      </table>
                   </p>
                   <p>
-                     <pb n="3" facs="tcp:005320_0006_1016FDCE615E5008"/>
+                     <pb n="3" facs="unknown:005320_0006_1016FDCE615E5008"/>
                      <table>
                         <head>4. Latin Glaſſics in Verſe;</head>
                         <row>
@@ -547,7 +547,7 @@
                            <cell>4</cell>
                            <cell>1 to 21</cell>
                         </row>
-                        <pb n="4" facs="tcp:005320_0007_1016FDCFE73FB2F0"/>
+                        <pb n="4" facs="unknown:005320_0007_1016FDCFE73FB2F0"/>
                         <row>
                            <cell cols="2">Homeri Opera.</cell>
                            <cell>3</cell>
@@ -746,7 +746,7 @@
                            <cell>6</cell>
                            <cell>13</cell>
                         </row>
-                        <pb n="5" facs="tcp:005320_0008_1016FDD2C079AC70"/>
+                        <pb n="5" facs="unknown:005320_0008_1016FDD2C079AC70"/>
                         <row>
                            <cell>Ochlei Introductio ad Linguas Orientales,</cell>
                            <cell>12</cell>
@@ -948,7 +948,7 @@
                </p>
             </div>
             <div n="rhetoric" type="subject">
-               <pb n="6" facs="tcp:005320_0009_1016FDD6E255BBE0"/>
+               <pb n="6" facs="unknown:005320_0009_1016FDD6E255BBE0"/>
                <head>RHETORIC.</head>
                <p>
                   <table>
@@ -1143,7 +1143,7 @@
                         <cell>2</cell>
                         <cell>11</cell>
                      </row>
-                     <pb n="7" facs="tcp:005320_0010_1016FDD9B72B8130"/>
+                     <pb n="7" facs="unknown:005320_0010_1016FDD9B72B8130"/>
                      <row>
                         <cell>—Eliza.</cell>
                         <cell>12</cell>
@@ -1320,7 +1320,7 @@
                   </table>
                </p>
                <p>
-                  <pb n="8" facs="tcp:005320_0011_1016FDDB3ABF3328"/>
+                  <pb n="8" facs="unknown:005320_0011_1016FDDB3ABF3328"/>
                   <table>
                      <head>3. Geometry.</head>
                      <row>
@@ -1486,7 +1486,7 @@
                   </table>
                </p>
                <p>
-                  <pb n="9" facs="tcp:005320_0012_1016FDDF624AA020"/>
+                  <pb n="9" facs="unknown:005320_0012_1016FDDF624AA020"/>
                   <table>
                      <head>8 A Mixture of all ſorts of Mathematics.</head>
                      <row>
@@ -1690,7 +1690,7 @@
                         <cell>6</cell>
                         <cell>7</cell>
                      </row>
-                     <pb n="10" facs="tcp:005320_0013_1016FDE0E73C6F00"/>
+                     <pb n="10" facs="unknown:005320_0013_1016FDE0E73C6F00"/>
                      <row>
                         <cell>Helſham's Natural Phyloſophy,</cell>
                         <cell>5</cell>
@@ -1904,7 +1904,7 @@
                </p>
             </div>
             <div n="botany" type="subject">
-               <pb n="11" facs="tcp:005320_0014_1016FDE50BD553D0"/>
+               <pb n="11" facs="unknown:005320_0014_1016FDE50BD553D0"/>
                <head>BOTANY Or PLANTS &amp; AGRICULTURE.</head>
                <p>
                   <table>
@@ -2069,7 +2069,7 @@
                         <cell>5</cell>
                         <cell>21</cell>
                      </row>
-                     <pb n="12" facs="tcp:005320_0015_1016FDE691BE3898"/>
+                     <pb n="12" facs="unknown:005320_0015_1016FDE691BE3898"/>
                      <row>
                         <cell cols="2">Agrippae philoſophia Occulta,</cell>
                         <cell>11</cell>
@@ -2267,7 +2267,7 @@
                         <cell>5</cell>
                         <cell>18</cell>
                      </row>
-                     <pb n="13" facs="tcp:005320_0016_1016FDE9638B8490"/>
+                     <pb n="13" facs="unknown:005320_0016_1016FDE9638B8490"/>
                      <row>
                         <cell>Sydenham's Opera,</cell>
                         <cell>6</cell>
@@ -2487,7 +2487,7 @@
                         <cell>2</cell>
                         <cell>12</cell>
                      </row>
-                     <pb n="14" facs="tcp:005320_0017_1016FDEC482991B0"/>
+                     <pb n="14" facs="unknown:005320_0017_1016FDEC482991B0"/>
                      <row>
                         <cell>Glanvil of Witches,</cell>
                         <cell>7</cell>
@@ -2705,7 +2705,7 @@
                </p>
             </div>
             <div n="history" type="subject">
-               <pb n="15" facs="tcp:005320_0018_1016FDF06EAD7A68"/>
+               <pb n="15" facs="unknown:005320_0018_1016FDF06EAD7A68"/>
                <head>HISTORY.</head>
                <div n="1" type="part">
                   <head>1. General Hiſtories.</head>
@@ -2858,7 +2858,7 @@
                      </table>
                   </p>
                   <p>
-                     <pb n="16" facs="tcp:005320_0019_1016FDF1F34FFC80"/>
+                     <pb n="16" facs="unknown:005320_0019_1016FDF1F34FFC80"/>
                      <table>
                         <head>Of England, Scotland and Ireland.</head>
                         <row>
@@ -3041,7 +3041,7 @@
                   </p>
                </div>
                <div n="5" type="part">
-                  <pb n="17" facs="tcp:005320_0020_1016FDF4EC05D238"/>
+                  <pb n="17" facs="unknown:005320_0020_1016FDF4EC05D238"/>
                   <head>5. Of America.</head>
                   <p>
                      <table>
@@ -3224,7 +3224,7 @@
                            <cell>3</cell>
                            <cell>3 to 8</cell>
                         </row>
-                        <pb n="18" facs="tcp:005320_0021_1016FDF939372BC8"/>
+                        <pb n="18" facs="unknown:005320_0021_1016FDF939372BC8"/>
                         <row>
                            <cell cols="2">Gedde's Hiſtory of the Church of Malibar,</cell>
                            <cell>8</cell>
@@ -3391,7 +3391,7 @@
                   </p>
                </div>
                <div n="8" type="part">
-                  <pb n="19" facs="tcp:005320_0022_1016FDFC14E8E3D8"/>
+                  <pb n="19" facs="unknown:005320_0022_1016FDFC14E8E3D8"/>
                   <head>8. Roman Hiſtories.</head>
                   <p>
                      <table>
@@ -3589,7 +3589,7 @@
                         <cell>1</cell>
                         <cell>4 to 10</cell>
                      </row>
-                     <pb n="20" facs="tcp:005320_0023_1016FDFD992F5F58"/>
+                     <pb n="20" facs="unknown:005320_0023_1016FDFD992F5F58"/>
                      <row>
                         <cell>Burnet's Archaeologia,</cell>
                         <cell>6</cell>
@@ -3779,7 +3779,7 @@
                         <cell>1</cell>
                         <cell>2</cell>
                      </row>
-                     <pb n="21" facs="tcp:005320_0024_1016FE00B59164E8"/>
+                     <pb n="21" facs="unknown:005320_0024_1016FE00B59164E8"/>
                      <row>
                         <cell>Plinii Junioris Vita,</cell>
                         <cell>12</cell>
@@ -3974,7 +3974,7 @@
                         <cell>3</cell>
                         <cell>12</cell>
                      </row>
-                     <pb n="22" facs="tcp:005320_0025_1016FE04DBBBCEC8"/>
+                     <pb n="22" facs="unknown:005320_0025_1016FE04DBBBCEC8"/>
                      <row>
                         <cell>Charron of Wiſdom,</cell>
                         <cell>16</cell>
@@ -4164,7 +4164,7 @@
                            <cell>3</cell>
                            <cell>9</cell>
                         </row>
-                        <pb n="23" facs="tcp:005320_0026_1016FE06628C3530"/>
+                        <pb n="23" facs="unknown:005320_0026_1016FE06628C3530"/>
                         <row>
                            <cell>Codex Apocryphus Novi Teſtamenti, 3 <hi>Vol.</hi>
                            </cell>
@@ -4363,7 +4363,7 @@
                            <cell>2</cell>
                            <cell>8</cell>
                         </row>
-                        <pb n="24" facs="tcp:005320_0027_1016FE09374381B8"/>
+                        <pb n="24" facs="unknown:005320_0027_1016FE09374381B8"/>
                         <row>
                            <cell>Patrick's 2 <hi>Vol. Fol.</hi>
                            </cell>
@@ -4604,7 +4604,7 @@
                            <cell>2</cell>
                            <cell>15</cell>
                         </row>
-                        <pb n="25" facs="tcp:005320_0028_1016FE0ABABDDB68"/>
+                        <pb n="25" facs="unknown:005320_0028_1016FE0ABABDDB68"/>
                         <row>
                            <cell>Marloratus</cell>
                            <cell rows="5">On the New Teſtament,</cell>
@@ -4827,7 +4827,7 @@
                            <cell>1</cell>
                            <cell>3 4</cell>
                         </row>
-                        <pb n="26" facs="tcp:005320_0029_1016FE1087FA1570"/>
+                        <pb n="26" facs="unknown:005320_0029_1016FE1087FA1570"/>
                         <row>
                            <cell cols="2">Robert's marrow of the Bible,</cell>
                            <cell>14</cell>
@@ -5035,7 +5035,7 @@
                            <cell>7</cell>
                            <cell>1</cell>
                         </row>
-                        <pb n="27" facs="tcp:005320_0030_1016FE135F9A9768"/>
+                        <pb n="27" facs="unknown:005320_0030_1016FE135F9A9768"/>
                         <row>
                            <cell cols="2">Fogg's Theologiae Speculativae,</cell>
                            <cell>8</cell>
@@ -5223,7 +5223,7 @@
                      </p>
                   </div>
                   <div n="3" type="section">
-                     <pb n="28" facs="tcp:005320_0031_1016FE14E42908C8"/>
+                     <pb n="28" facs="unknown:005320_0031_1016FE14E42908C8"/>
                      <head>(3) The Perſon and Offices of CHRIST.</head>
                      <p>
                         <table>
@@ -5387,7 +5387,7 @@
                      </p>
                   </div>
                   <div n="7" type="section">
-                     <pb n="29" facs="tcp:005320_0032_1016FE17C2A809D8"/>
+                     <pb n="29" facs="unknown:005320_0032_1016FE17C2A809D8"/>
                      <head>(7) On the TEN COMMANDMENTS.</head>
                      <p>
                         <table>
@@ -5569,7 +5569,7 @@
                      </p>
                   </div>
                   <div n="11" type="section">
-                     <pb n="30" facs="tcp:005320_0033_1016FE1BF1C24BE8"/>
+                     <pb n="30" facs="unknown:005320_0033_1016FE1BF1C24BE8"/>
                      <head>(11) On PRACTICAL &amp; RELATIVE DUTIES.</head>
                      <p>
                         <table>
@@ -5722,7 +5722,7 @@
                               </cell>
                               <cell cols="3">7, 5, 18 to 20 &amp; 23</cell>
                            </row>
-                           <pb n="31" facs="tcp:005320_0034_1016FE1ECA2215F0"/>
+                           <pb n="31" facs="unknown:005320_0034_1016FE1ECA2215F0"/>
                            <row>
                               <cell>Burnet's Paſtoral Care,</cell>
                               <cell>7</cell>
@@ -5903,7 +5903,7 @@
                               <cell>2</cell>
                               <cell>7</cell>
                            </row>
-                           <pb n="32" facs="tcp:005320_0035_1016FE204DC26E30"/>
+                           <pb n="32" facs="unknown:005320_0035_1016FE204DC26E30"/>
                            <row>
                               <cell>Du Moulins Buckler of Faith,</cell>
                               <cell>14</cell>
@@ -6117,7 +6117,7 @@
                         </table>
                      </p>
                      <p>
-                        <pb n="33" facs="tcp:005320_0036_1016FE2328A24478"/>
+                        <pb n="33" facs="unknown:005320_0036_1016FE2328A24478"/>
                         <table>
                            <head>[3] Between Preſbyterians, Congregationaliſts and Independants.</head>
                            <row>
@@ -6261,7 +6261,7 @@
                         </table>
                      </p>
                      <p>
-                        <pb n="34" facs="tcp:005320_0037_1016FE27769196D8"/>
+                        <pb n="34" facs="unknown:005320_0037_1016FE27769196D8"/>
                         <table>
                            <head>[7] Controverſies between the Calviniſts and Arminians.</head>
                            <row>
@@ -6461,7 +6461,7 @@
                            <cell>3</cell>
                            <cell>17</cell>
                         </row>
-                        <pb n="35" facs="tcp:005320_0038_1016FE2A5448B020"/>
+                        <pb n="35" facs="unknown:005320_0038_1016FE2A5448B020"/>
                         <row>
                            <cell>Bp Andrew's,</cell>
                            <cell>14</cell>
@@ -6696,7 +6696,7 @@
                            <cell>3</cell>
                            <cell>4</cell>
                         </row>
-                        <pb n="36" facs="tcp:005320_0039_1016FE2BD9ECB030"/>
+                        <pb n="36" facs="unknown:005320_0039_1016FE2BD9ECB030"/>
                         <row>
                            <cell>The Morning Exerciſes,</cell>
                            <cell>07</cell>
@@ -6926,7 +6926,7 @@
                            <cell>1</cell>
                            <cell>1 to 3</cell>
                         </row>
-                        <pb n="37" facs="tcp:005320_0040_1016FE2EB1EF4F58"/>
+                        <pb n="37" facs="unknown:005320_0040_1016FE2EB1EF4F58"/>
                         <row>
                            <cell cols="2">Charnock's 2 <hi>Volumns</hi> 2 <hi>Duplicates</hi>
                            </cell>
@@ -7152,7 +7152,7 @@
                            <cell>8</cell>
                            <cell>22</cell>
                         </row>
-                        <pb n="38" facs="tcp:005320_0041_1016FE331DF094D0"/>
+                        <pb n="38" facs="unknown:005320_0041_1016FE331DF094D0"/>
                         <row>
                            <cell>Wiſe's Chriſtian Directory,</cell>
                            <cell>8</cell>
@@ -7368,7 +7368,7 @@
                            <cell>7</cell>
                            <cell>19</cell>
                         </row>
-                        <pb n="39" facs="tcp:005320_0042_1016FE35F3693588"/>
+                        <pb n="39" facs="unknown:005320_0042_1016FE35F3693588"/>
                         <row>
                            <cell>A Discourse on Divine Dreams,</cell>
                            <cell>11</cell>
@@ -7569,7 +7569,7 @@
                   </p>
                </div>
                <div n="14" type="part">
-                  <pb n="40" facs="tcp:005320_0043_1016FE3778887538"/>
+                  <pb n="40" facs="unknown:005320_0043_1016FE3778887538"/>
                   <head>XIV. The Fathers.</head>
                   <p>
                      <table>
@@ -7796,7 +7796,7 @@
                            <cell>4</cell>
                            <cell>22 23</cell>
                         </row>
-                        <pb n="41" facs="tcp:005320_0044_1016FE3A75595940"/>
+                        <pb n="41" facs="unknown:005320_0044_1016FE3A75595940"/>
                         <row>
                            <cell>Novatiani Opera <hi>Octavo,</hi>
                            </cell>
@@ -8008,7 +8008,7 @@
             </div>
             <div n="miscellaneous treatises" type="subject">
                <p>
-                  <pb n="42" facs="tcp:005320_0045_1016FE3EA6533010"/>
+                  <pb n="42" facs="unknown:005320_0045_1016FE3EA6533010"/>
                   <table>
                      <head>Treatiſes on Various Subjects.</head>
                      <row>
@@ -8218,7 +8218,7 @@
                         <cell>7</cell>
                         <cell>25 26</cell>
                      </row>
-                     <pb n="43" facs="tcp:005320_0046_1016FE41855733E8"/>
+                     <pb n="43" facs="unknown:005320_0046_1016FE41855733E8"/>
                      <row>
                         <cell>The Builder's Dictionary,</cell>
                         <cell>5</cell>
@@ -8412,7 +8412,7 @@
                         <cell>7</cell>
                         <cell>6</cell>
                      </row>
-                     <pb n="44" facs="tcp:005320_0047_1016FE430AF3C1B8"/>
+                     <pb n="44" facs="unknown:005320_0047_1016FE430AF3C1B8"/>
                      <row>
                         <cell>Biſhops in Parliament,</cell>
                         <cell>10</cell>
@@ -8624,7 +8624,7 @@
       </body>
       <back>
          <div type="table_of_contents">
-            <pb facs="tcp:005320_0048_1016FE44927A6478"/>
+            <pb facs="unknown:005320_0048_1016FE44927A6478"/>
             <head>AN INDEX to the preceeding CATALOGUE.</head>
             <list>
                <item>LANGUAGES,
@@ -8689,7 +8689,7 @@
                <item>ANTIENT Philoſophy, Natural &amp; Moral. <hi>Ib.</hi>
                </item>
                <item>
-                  <pb facs="tcp:005320_0049_1016FE4782D55F50"/>
+                  <pb facs="unknown:005320_0049_1016FE4782D55F50"/>
 ANATOMY, Phyſick &amp; Chyrurgery. <hi>pag.</hi> 12</item>
                <item>PNEUMATOLOGY, <hi>pag.</hi> 13</item>
                <item>METAPHYSICKS, <hi>pag.</hi> 14</item>
@@ -8747,7 +8747,7 @@ ANATOMY, Phyſick &amp; Chyrurgery. <hi>pag.</hi> 12</item>
                      <item>VII. Bodies of Divinity. <hi>pag.</hi> 26</item>
                      <item>VIII. Treatiſes on particular Subjects. <hi>p</hi> 27
 <list>
-                           <pb facs="tcp:005320_0050_1016FE4E4D5C16F8"/>
+                           <pb facs="unknown:005320_0050_1016FE4E4D5C16F8"/>
                            <item>1. The Attribute<gap reason="illegible" resp="#AELD" extent="1 letter">
                                  <desc>•</desc>
                               </gap> 
@@ -8825,7 +8825,7 @@ ANATOMY, Phyſick &amp; Chyrurgery. <hi>pag.</hi> 12</item>
             <trailer>FINIS.</trailer>
          </div>
          <div type="errata">
-            <pb facs="tcp:005320_0051_1016FE4FD3304EC8"/>
+            <pb facs="unknown:005320_0051_1016FE4FD3304EC8"/>
             <head>THe Reader is deſired to correct the following Errata with his Pen.</head>
             <p>PAG. 2. l. 17. &amp; pag. 3. l. 1. &amp; l. 30. Read Claſſics Alſo P. 3. l. 4 f. 27. r. 2 &amp; 7. P. 5. l. 3. r. Hepta<g ref="char:EOLhyphen"/>glotton P. 7. l. 9. r. Lanſdens. P. 11. l. 16. r. Phi<g ref="char:EOLhyphen"/>loſophiae. P. 14 l. 4. from the bottom, 1. 6, 1, 17. P. 19. f. l. 12 to 22, the laſt figure is fallen down out of its place. P. 21. l. 22. r. Bruyer. P. 25. l. 13. <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
